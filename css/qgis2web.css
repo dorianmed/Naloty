@@ -44,7 +44,7 @@
         .leaflet-control-search .search-button,
          .leaflet-control-measure {
             background-color: #f8f8f8 !important;
-            border-radius: 10px !important;
+            border-radius: 0px !important;
             color: #000000 !important;
         }
         .abstract {
